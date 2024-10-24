@@ -1,0 +1,15 @@
+==================
+What is Docker ?
+==================
+
+=> Docker is a free & open source software
+
+=> Docker is used for containerization
+
+=> With the help of docker, we can run our application in any machine.
+
+	Container = package (app code + app dependencies)
+
+=> Docker will take care of dependencies installation required for app execution.
+
+=> We can make our application portable using Docker.
